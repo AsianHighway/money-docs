@@ -1,2 +1,6 @@
 # money-docs
-Maybe those of you with more experience will recommend the correct way to redesign our projects and repositories. In the description of the crowdfunding money portion of the www.7millionjobs.com project is the information that could have been placed here, instead of where it is now. Please forgive me for not being an expert on setting up this PRO account that allows YOU to earn income assisting US to earn income. 
+Configure our CROWDFUNDING PLATFORM to share up to 50% of our fee with everyone bringing users who post a request that gains some funding. 
+Project is currently at https://gf.asianhighway26.com Read the other readme file for more info. 
+
+Those of you with more experience will recommend the correct way to redesign our projects and repositories. 
+
